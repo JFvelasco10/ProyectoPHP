@@ -1,0 +1,233 @@
+body{
+    background-color: black;
+}
+#header{
+    background-color: rgb(109, 122, 231);
+    height: 75px;
+    border-radius: 3px 3px 3px 3px; 
+    border-bottom: 2px solid black;
+}
+#titulo{
+    font-size: 250%;
+    margin-top: 30px;
+    padding-top: 15px;
+    font: oblique bold 250% impact;
+    padding-left: 820px;
+}
+
+#titulo2{
+    color: rgb(255, 255, 255);
+    font-size: 250%;
+    margin-top: -95px;
+    padding-top: 20px;
+    font: 250% impact;
+    margin-left: 105px;
+}
+table{
+    margin-top: 0cm;
+}
+#notificacion{
+    float: right;
+    background-color: rgb(255, 0, 0);
+    width: 20px;
+    text-align: center;
+    border-radius: 20px;
+    padding: 2px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 1120px;
+    margin-top: -30px;
+}
+img{
+   float: right;
+   margin-right: 170px;
+   margin-top: -87px;
+}
+#img1{
+    float: left;
+    margin-left: 30px;
+    margin-top: -93px;
+}
+#img2{
+    margin-right: 5px;
+    margin-top: 90px;
+}
+#img3{
+    margin-right: 5px;
+    margin-top: 100px;
+}
+#main{
+    background-color: rgb(185, 185, 185);
+    width: 70%;
+    height: 490px;
+    right: 60px;
+    border-radius: 0px 3px 3px 3px;
+}
+#tbl1{
+    padding-top: 100px;
+    width: 500px;
+    height: 300px;
+    padding-left: 75px;
+}
+#aside{
+    background-color: rgb(202, 202, 202);
+    width: 15%;
+    height: 480px;
+    margin-top: -490px;
+    border-radius: 0px 3px 3px 0px;
+
+}
+
+#aside1{
+    background-color: rgb(202, 202, 202);
+    width: 15%;
+    float: right;
+    height: 480px;
+    margin-top: -480px;
+    border-radius: 3px 0px 0px 3px;
+}
+#footer{
+     background-color: rgb(97, 62, 252);
+     height: 56px;
+     padding-top: 1px;
+     border:-color #aaaaaa;
+     border-radius: 3px 3px 3px 3px;
+}
+#pie{
+    font: 100% impact;
+}
+#texto1{
+    font: oblique bold 250% impact;
+}
+
+#tablan{
+    margin-top: -65px;
+    padding-left: 270px;
+}
+#href1{
+    float: left;
+    padding-left: 95%;
+    padding-top: 9px;
+    padding-right: -50px;
+}
+
+/*Estilos de la pagina enviar*/
+.btn2{
+     text-decoration: none;
+     padding: 10px;
+     font-weight: 600;
+     font-size: 20px;
+     color: #ffffff;
+     background-color: #ffffff;
+     border-radius: 6px;
+     border: 2px solid #000000;
+}
+.btn2{
+    color: #000000;
+    background-color: rgb(109, 122, 231);;
+  }
+#txt{
+    color: rgb(13, 23, 68);
+    font-size: 250%;
+    margin-top: -95px;
+    padding-top: 20px;
+    font: 250% impact;
+    margin-left: 105px;  
+}
+#txt1{
+    color: rgb(13, 23, 68);
+    font-size: 20%;
+    padding-top: 25px;
+    font: 150% impact;
+    margin-left: 105px;  
+}
+#in1{
+    width: 300px;
+    height: 25px;
+    border-radius: 5px;
+    border: 2px solid rgb(1, 2, 41);
+}
+#in2{
+    width: 300px;
+    height: 60px;
+    border-radius: 5px;
+    border: 2px solid rgb(1, 2, 41);
+}
+.in3{
+    width: 60px;
+    height: 30px;
+    border-radius: 5px;
+    border: 2px solid rgb(1, 2, 41);
+    margin-right: 900px;
+    margin-top: 30px;
+}
+#tbl2{
+     padding-right: 70px;
+     padding-top: 50px;
+}
+/*Estilos de la pagina mensaje*/
+
+#ttt{
+    padding-top: 85px;
+    margin-bottom: -4px;
+    float: left;
+    padding-left: 25px;
+
+}
+
+#qqq{
+    padding-top: 100px;
+    margin-bottom: -60px;
+    float: left;
+    padding-left: 25px;
+}
+#www{
+
+    float: left;
+    padding-left: 25px;
+
+}
+
+#tbl9{
+    margin-top: 30px;
+}
+#txt7{
+    color: rgb(13, 23, 68);
+    font-size: 20%;
+    padding-top: 5px;
+    font: 150% impact; 
+    padding-left: 40px; 
+    padding-right: 40px; 
+}
+#txt8{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#txt9{
+    color: rgb(13, 23, 68);
+    font-size: 20%;
+    padding-top: 5px;
+    font: 150% impact;
+    padding-right: 100px;
+    width: -10;
+}
+
+/*Estilos de la pagina Mrevisado*/
+#btn9{
+    text-decoration: none;
+    padding: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #ffffff;
+    border-radius: 6px;
+    border: 2px solid #000000;
+}
+#btn9{
+   color: #000000;
+   background-color: rgb(109, 122, 231);;
+ }
+
+ #espacio{
+     padding-top: 50px;
+ }
